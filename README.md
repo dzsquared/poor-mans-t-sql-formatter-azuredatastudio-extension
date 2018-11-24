@@ -1,14 +1,14 @@
 # Poor Man's T-SQL Formatter - VS Code Extension
 
-This is a Visual Studio Code extension for Poor Man's T-SQL Formatter, a SQL formatting library available in a variety of other editors & IDEs.
+This is a Azure Data Studio extension for Poor Man's T-SQL Formatter, a SQL formatting library available in a variety of other editors & IDEs.
 
-This formatter's special focus on T-SQL (the SQL dialect of Microsoft SQL Server... and Sybase/SAP Adaptive Server Enterprise) makes Visual Studio Code a sensible target for support.
+This formatter's special focus on T-SQL (the SQL dialect of Microsoft SQL Server... and Sybase/SAP Adaptive Server Enterprise) makes Azure Data Studio a sensible target for support.
 
 This formatter uses the JS library on npm for formatting (https://www.npmjs.com/package/poor-mans-t-sql-formatter), and that is itself a transpilation of the C# library / main project at http://architectshack.com/PoorMansTSqlFormatter.ashx.
 
 ## Features
 
-This formatter has the same features under Visual Studio Code as it has under other environments (Visual Studio, SSMS, Notepad++, Atom Editor):
+This formatter has the same features under Azure Data Studio as it has under other environments (Visual Studio, SSMS, Notepad++, Atom Editor):
 
 (list to be added - see homepage at http://architectshack.com/PoorMansTSqlFormatter.ashx)
 
