@@ -182,5 +182,8 @@
         "sqlops": "github:anthonydresser/sqlops-extension-sqlops",
         "@types/node": "^7.0.43",
         "@types/mocha": "^2.2.42"
+    },
+    "dependencies": {
+        "poor-mans-t-sql-formatter": "^1.6.10"
     }
 }
